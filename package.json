@@ -1,0 +1,11 @@
+{
+  "name": "@engramhq/blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:engramhq/blog.git",
+  "author": "Adam Berg <adam@xyzdigital.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
